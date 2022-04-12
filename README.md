@@ -1,2 +1,2 @@
 # YouTube-video-downloader
-Aplikacja stworzona w języku Python, która służy do pobierania filmu z serwisu YouTube na podstawie linku.
+Aplikacja stworzona w języku Python, która służy do pobierania filmów z serwisu YouTube na podstawie linku.
